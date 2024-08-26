@@ -5,8 +5,8 @@ function Final() {
   return (
     <>
      <TeamImg year='2021' src='Sagar' name="Sagar Das" post={"President"}  />
-     <TeamImg year='2021' src='Debarpan2' name="Debarpan Bandyopadhay" post={"Vice President"}  />
-     <TeamImg year='2021' src='Prajnan1' name="Prajnan Karmakar" post={"General Secretary"}  />
+     <TeamImg year='2021' src='Debarpan1' name="Debarpan Bandyopadhay" post={"Vice President"}  />
+     <TeamImg year='2021' src='Prajnan' name="Prajnan Karmakar" post={"General Secretary"}  />
      <TeamImg year='2021' src='Bedabrata1' name="Bedabrata Brahma" post={" Assistant General Secretary"}  />
      <TeamImg year='2021' src='Antara' name="Antara Shaw" post={" Assistant General Secretary and IT wing head"}  />
      <TeamImg year='2021' src='Sohan' name="Sohan Bera" post={"Treasurer"}  />
