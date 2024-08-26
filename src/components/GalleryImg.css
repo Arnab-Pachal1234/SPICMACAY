@@ -1,0 +1,19 @@
+.gallery-item {
+    position: relative;
+    padding: 12px;
+    margin: 10px; /* Adjust padding as needed */
+    overflow: hidden; /* Hide overflow */
+}
+
+.gallery-img {
+    width: 100%;
+    height: 250px; /* Set a fixed height */
+    object-fit: cover;
+    border-radius: 8px; /* Adjust border-radius for curved corners */
+    transition: transform  0.3s ease; /* Smooth transition */
+}
+
+.gallery-img:hover {
+   border-radius:8.8px;
+    transform: scale(1.10); /* Slightly scale up on hover */
+}
